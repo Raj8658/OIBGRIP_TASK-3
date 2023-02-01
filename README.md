@@ -1,5 +1,5 @@
 # OIBGRIP
-🎯 **Tasks for Internship in OASIS INFOBYTE  for Java Programmer**  
+🎯 **Tasks for Internship in OASIS INFOBYTE for App Development**  
 <br />
 
    **✨ OASIS INFOBYTE - APP DEVELOPMENT  ✨**
